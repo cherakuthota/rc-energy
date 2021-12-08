@@ -1,0 +1,18 @@
+
+# Environments
+.DS_Store
+.env
+.venv
+.vscode/*
+.vscode/settings.json
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# Data Files
+data/*.*
+mlruns
+training
